@@ -2,6 +2,8 @@
 """
 Created on Thu Oct 27 23:40:42 2016
 CCF农产品价格预测数据预处理
+ 这个鬼东西是预赛时的数据预处理。
+ 现在（12月）看来图森破。
 @author: twshere
 """
 import numpy as np
